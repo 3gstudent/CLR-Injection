@@ -1,2 +1,2 @@
 # CLR-Persistence
-Use CLR to maintain persistence
+Use CLR to inject all the .NET apps
