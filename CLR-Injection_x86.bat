@@ -1,5 +1,6 @@
 ::Author:3gstudent
 ::Inspired by @subTee
+::No need Administrator rights
 ::Need reboot or log off and re-logon
 ::Inject all the .NET apps
 ::Support x86 and x64
