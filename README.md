@@ -14,4 +14,4 @@ POC:
 
 When the system calls the.Net program by default, the backdoor triggers automatically.  :D
 
-![Alt text](https://raw.githubusercontent.com/3gstudent/CLR-Injection/master/poc.png)
+![Alt text](https://raw.githubusercontent.com/3gstudent/CLR-Injection/master/autorun.png)
