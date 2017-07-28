@@ -10,3 +10,8 @@ Use CLR to inject all the .NET apps
 POC:
 
 ![Alt text](https://raw.githubusercontent.com/3gstudent/CLR-Injection/master/poc.gif)
+
+
+When the system calls the.Net program by default, the backdoor triggers automatically.  :D
+
+![Alt text](https://raw.githubusercontent.com/3gstudent/CLR-Injection/master/poc.png)
