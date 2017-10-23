@@ -17,3 +17,7 @@ When the system calls the .Net apps by default, the backdoor triggers automatica
 :D
 
 ![Alt text](https://raw.githubusercontent.com/3gstudent/CLR-Injection/master/autorun.png)
+
+More details:
+
+https://3gstudent.github.io/3gstudent.github.io/Use-CLR-to-maintain-persistence/
