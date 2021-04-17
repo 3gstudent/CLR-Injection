@@ -20,4 +20,4 @@ When the system calls the .Net apps by default, the backdoor triggers automatica
 
 More details:
 
-https://3gstudent.github.io/3gstudent.github.io/Use-CLR-to-maintain-persistence/
+https://3gstudent.github.io/Use-CLR-to-maintain-persistence
